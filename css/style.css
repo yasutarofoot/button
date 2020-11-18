@@ -1,0 +1,20 @@
+p{
+  color: #F00
+
+}
+
+.fixed_btn
+{
+  position: fixed;
+  top: 80px;
+  right: 10px;
+  padding: 6px 40px;
+}
+
+button{
+  background-color: #0F0
+}
+
+section{
+  background-color: #CCCCCC
+}
